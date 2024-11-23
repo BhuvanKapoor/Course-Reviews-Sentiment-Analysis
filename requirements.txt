@@ -1,0 +1,12 @@
+ipykernel
+python-dotenv
+pandas
+numpy
+matplotlib
+seaborn
+nltk
+transformers
+torch
+tqdm
+ipywidgets
+jupyter
